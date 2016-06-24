@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="ques">
+    <item>What is android?</item>
+    <item>What can an Android phone do?</item>
+    <item>What apps can I get on an Android phone?</item>
+    <item>How can I get apps on an Android phone?</item>
+    <item>So who makes Android phones?</item>
+
+</string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

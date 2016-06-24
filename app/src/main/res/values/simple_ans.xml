@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ans">
+
+        <item>Android is the name of the mobile operating system made by American company; Google.It most commonly comes installed on a variety of smartphones and tablets from a host ofmanufacturers offering users access to Googles own services like Search, YouTube, Maps,Gmail and more.</item>
+
+        <item> Android phones are highly customisable and as such can be altered to suit your tastes and needs with wallpapers, themes and launchers which completely change the look of your devices interface. You can download applications to do all sorts of things like check your Facebook and Twitter feeds, manage your bank account, order pizza and play games. You can plan events on from your phones calendar and see them on your computer or browse websites on your desktop and pick them up on your phone.
+
+Another neat feature of Android is that it automatically backs up your contacts for you. When you set up an Android phone youll need to create a Google Account or sign in with an existing one. Every time you save a number to the address book of your Android phone it will be synced to your Google Account.
+
+The benefit of this is that if you lose your phone all of your numbers will be saved. The next time you get an Android phone (or and iPhone or Windows Phone if you prefer) and sign in with your Google Account, all of your contacts and friends numbers will be displayed in your new phones address book immediately, no need to transfer or back them up anywhere else.
+
+Syncing is a way for your phone to keep all your information, websites, contacts, calendar entries and apps up-to-date. This can happen over your phones mobile data or WiFi connection, seamlessly, in the background.</item>
+
+
+        <item>There are hundreds of thousands of apps and games available to download from the Google Play store (formerly the Android Market). There are camera apps that allow you to take pictures with artistic effects and filters on them and music players which allow you to stream music from the web or create playlists. You can customise the appearance of your Android handset with a number of wallpapers based on pictures you’ve taken yourself or downloaded from the internet too.</item>
+
+
+        <item>The majority of apps can be downloaded from the Google Play store (the equivalent of Apples App Store), which includes a mix of free as well as premium apps that you have to pay for. Some apps have lite versions which are free, in the hope youll enjoy them and upgrade to the full premium version. Others - like Angry Birds - are free, but include adverts or the ability to make in-app purchases. </item>
+
+        <item>Any handset maker is free to make an Android phone if they want to. As well as the aforementioned Motorola, HTC, Samsung and Sony, Acer, Alcatel, Asus, Huawei, LG and ZTE have all made Android phones (and tablets) too. Blackberry is also set to launch its very first Android phone, the strangely-named Blackberry Priv.</item>
+
+    </string-array>
+</resources>

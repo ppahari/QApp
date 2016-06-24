@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QApp</string>
+    <string name="bsq">Simple Questions</string>
+    <string name="btq">Tough Questions</string>
+    <string name="bcapp">See other apps</string>
+    <string name="rapp">Rate</string>
+    <string name="cnt">XX/</string>
+    <string name="cntot">YY</string>
+    <string name="ques">Questions</string>
+    <string name="ans">Press A Button for answers</string>
+    <string name="bleft">Left</string>
+    <string name="banswer">Answer</string>
+    <string name="bright">Right</string>
+    <string name="simp_questions_titlebar">Questions</string>
+</resources>
